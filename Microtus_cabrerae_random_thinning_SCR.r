@@ -3,7 +3,7 @@
 #                    MULTISESSION RANDOM THINNING-SCR MODEL                    #
 #                           Microtus cabrerae                                  #
 #                             Jose Jimenez                                     #
-#                         25/04/2023 10:06:36                                  #
+#                          10/09/2024 10:06:36                                 #
 #                                                                              #
 #==============================================================================#
 #rm(list=ls())
@@ -26,7 +26,7 @@ library(ggplot2)
 library(terra)
 library(fields)
 
-setwd('C:/Users/Usuario/OneDrive/40 Proyecto Topillo Cabrera/05 R code/DEF')
+setwd('...')
 source("SCR_Functions.R")
 
 
